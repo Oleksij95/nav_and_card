@@ -45,7 +45,7 @@ section.nav_v2.nav_v3, section#main_menu2{
 }
 /*============    ГЛАВНЫЙ ЭКРАН    ===========*/
 body {
-  background-color: #f4f2f2;
+  background-color: #fff;
   font-family: "Roboto-Regular", sans-serif;
   overflow: hidden!important;
 }
