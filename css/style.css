@@ -591,6 +591,7 @@ section#product_description .container .pl0 {
 section#product_description .container .wrapper_content {
   background-color: #fff;
   padding: 5px 15px;
+	border: 1px solid #ebebeb;
 }
 section#product_description .container .wrapper_content .nav-tabs > li {
   margin-bottom: -2px;
